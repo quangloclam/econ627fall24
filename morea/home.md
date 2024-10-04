@@ -5,27 +5,94 @@ morea_type: home
 published: true
 ---
 
-## Welcome to ICS 199, Fall 2021
+## Welcome to Econ 627, Fall 2024
 
-<div class="alert alert-danger" role="alert" markdown="1">
+Econ 627 Mathematics for Economics
 
-  <i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: this is not a website for a real course.**
-  <hr/>
-  
-  It is actually the "demo" site for the Morea Framework. 
+Classroom: BUSAD C103
 
-  See the <a href="https://morea-framework.github.io">Morea Framework Project Site</a> for details.
-</div>
+[NEW DATE] Midterm 1 on Wed Sep 27 at 9am-10:15am 
+ 
 
-ICS 199 is a four week overview of selected topics in computer science, including Javascript, Open Source Software, and Ethics.
+Latest schedule:  
+
+https://docs.google.com/spreadsheets/d/1BxlG9nQPwVu7eCqapR7Q1JwheydESTXEynZnQWSwCKw/edit?usp=sharing
+
+Topics covered last year:
+
+ 
+
+Monday Aug 22:
+
+Introduction; Quick review of optimization (unconstrained optimization, constrained optimization with equality constraints)
+
+ 
+
+Wednesday Aug 24:
+
+Quick review of optimization (constrained optimization with inequality constraints)
+
+Preliminary topics 1 (sets, proof methods) 
+
+ 
+
+Monday Aug 29: video recordings (available under Lecture Recordings Fall 2021)
+
+9:00-10:15
+
+ECON 627 20210826 Session 1, only the last three minutes (start at 1:07:00 mark, i.e.,You can skip the beginning for one hour and 7 minutes because I covered them last week.
+
+and 
+
+ECON 627 20210826 Session 2
+
+ 
+
+10:30-11:45
+
+ ECON 627 20210831
+
+ 
+
+Wednesday Sep 1
+
+9:00-10:15
+
+ECON 627 20210902
+
+10:30-11:45
+
+Econ 627 20210907 Session 1
+
+ 
+
+Monday Sep 5 (Holiday; no class)
+
+ 
+
+Wednesday Sep 7
+
+ 
+
+Econ 627 20210907 Session 2
+
+Econ 627 20210909 Session 1
+
+ 
+
+Monday Sep 12
+
+Taylor's Theorem: application and examples
+
+Matrix algebra: linear independence of vectors, singular matrices, rank of a matrix, inverse, determinants, the number of solutions to the system of linear equations, Cramer's rule
 
 ## Who should take this course
 
-This course is intended for undergraduates in computer science or computer engineering who have a working knowledge of at least one programming language and who want to get a taste of important topics in the field.
+This course is intended for students who want to study Mathematics for Economics.
 
 ## Pedagogy
 
-ICS 199 is structured as a sequential series of [modules](/modules), each taking approximately a week to complete. Each module has the following structure:
+Econ 627 is structured as a sequential series of [modules](/modules), each taking approximately a week to complete. Each module has the following structure:
 
   * [Prerequisites](/prerequisites), describing skills you should have prior to starting the module.
   * [Learning outcomes](/outcomes), describing the major goals for the module.
@@ -35,4 +102,4 @@ ICS 199 is structured as a sequential series of [modules](/modules), each taking
 
 ## About the instructor
 
-[Philip Johnson](https://philipmjohnson.org) is a Professor of Information and Computer Sciences at the University of Hawaii. His research interests include climate change, educational technology, software engineering, and serious games. He is currently an active developer of [RadGrad](https://radgrad.org), an open source software system based on Javascript, Typescript, React, and Meteor.
+[Nori Tarui](https://nori523.wixsite.com/my-site) is a Professor of Economics at the University of Hawaii. His research interests include climate change and economics.
